@@ -3,8 +3,8 @@
 > Welcome to **SwiperSky56 Hub** 🚀  
 > A powerful **Script Game Hub** designed for fun and performance.
 
-> [!TIP]
-> Helpful tip here...
+> [!IMPORTANT]
+> There a lot bug in our code please careful.
 
 Speed Clicker Script:
 ```lua
